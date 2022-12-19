@@ -28,4 +28,6 @@ int set(int, char);
 
 int rem(int);
 
+int insert(int, char);
+
 #endif /* MINIDATABASE_DATABASE_H */
